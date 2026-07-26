@@ -1,5 +1,7 @@
 # ForgeX
 
+[中文文档](./README.zh-CN.md)
+
 **ForgeX** is a desktop GUI for the [Grok Build CLI](https://x.ai) — an AI coding workbench similar in spirit to Codex Desktop, Claude Code Desktop, and OpenCode Desktop.
 
 It is **not** a thin chat wrapper. ForgeX lets you open local projects, run Grok Build as a managed subprocess, inspect agent tool calls, preview files, review Git diffs, and use an integrated terminal — all in one Electron app.
